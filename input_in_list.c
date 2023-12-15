@@ -6,10 +6,11 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 10:51:29 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/15 11:23:05 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+# include "utils/utils.h"
 #include "cub3d.h"
 
 int		len_tab(t_input *input)
@@ -52,8 +53,12 @@ void	create_tab(t_input *input, int fd)
 {
 	char	*line;
 
+	line = NULL;
+	input->map->str = line;
+	input->map = input->map->next;
 	while (1)
 	{
+		line = get_next_line(fd);
 		if (line == NULL)
 		{
 			free (line);
@@ -103,7 +108,7 @@ void	input_in_list(t_input *input, int fd)
 	}
 }
 
-t_input	*init_list(char **argv)
+void	init_list(char **argv)
 {
 	t_input	input;
 	int		fd;
@@ -120,5 +125,7 @@ t_input	*init_list(char **argv)
 
 int	main(int argc, char **argv)
 {
+	(void) argc;
+	(void) argv;
 	return (0);
 }
