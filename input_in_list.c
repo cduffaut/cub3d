@@ -6,7 +6,7 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 12:01:58 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/15 13:00:20 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,19 +49,19 @@ void	put_map_int_tab(t_input *input)
 	input->tab_map[i + 1] = NULL;
 }
 
-void	create_tab(t_input *input, int fd)
+void	create_tab(t_input *input, int fd, char *line)
 {
-	char	*line;
+	t_list	*start;
 
-	line = NULL;
 	input->map = malloc(sizeof(t_list));
 	if (!input->map)
 	{
-		printf ("Erreur alloation map list\n");
+		printf ("Erreur allocation map list\n");
 		return ;
 	}
 	input->map->str = line;
-	input->map = input->map->next;
+	input->map->next = NULL;
+	start = input->map;
 	while (1)
 	{
 		line = get_next_line(fd);
@@ -69,15 +69,14 @@ void	create_tab(t_input *input, int fd)
 		{
 			free (line);
 			line = NULL;
-			input->map = NULL;
 			break ;
 		}
+		input->map = input->map->next;
 		input->map = malloc(sizeof(t_list));
 		input->map->str = line;
-		printf ("la ligne: %s\n", input->map->str = line);
-		input->map = input->map->next;
+		input->map->next = NULL;
 	}
-	input->map = NULL;
+	input->map = start;
 }
 
 void	input_in_list(t_input *input, int fd)
@@ -106,7 +105,7 @@ void	input_in_list(t_input *input, int fd)
 			input->c = line;
 		else
 		{
-			create_tab(input, fd);
+			create_tab(input, fd, line);
 			break ;
 		}
 	}
