@@ -6,7 +6,7 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 11:23:05 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/15 12:01:58 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -54,6 +54,12 @@ void	create_tab(t_input *input, int fd)
 	char	*line;
 
 	line = NULL;
+	input->map = malloc(sizeof(t_list));
+	if (!input->map)
+	{
+		printf ("Erreur alloation map list\n");
+		return ;
+	}
 	input->map->str = line;
 	input->map = input->map->next;
 	while (1)
@@ -63,12 +69,15 @@ void	create_tab(t_input *input, int fd)
 		{
 			free (line);
 			line = NULL;
+			input->map = NULL;
 			break ;
 		}
+		input->map = malloc(sizeof(t_list));
 		input->map->str = line;
+		printf ("la ligne: %s\n", input->map->str = line);
 		input->map = input->map->next;
 	}
-	input->map->next = NULL;
+	input->map = NULL;
 }
 
 void	input_in_list(t_input *input, int fd)
@@ -106,6 +115,7 @@ void	input_in_list(t_input *input, int fd)
 		free (line);
 		line = NULL;
 	}
+	print_list(input->map);
 }
 
 void	init_list(char **argv)
@@ -117,9 +127,12 @@ void	init_list(char **argv)
 	fd = open(argv[1], O_RDWR);
 	// put an exit error func
 	if (fd < 0)
+	{
+		printf ("error map opening\n");
 		return ;
+	}
 	input_in_list(&input, fd);
-	put_map_int_tab(&input);
+	//put_map_int_tab(&input);
 	close(fd);
 }
 
@@ -127,5 +140,6 @@ int	main(int argc, char **argv)
 {
 	(void) argc;
 	(void) argv;
+	init_list(argv);
 	return (0);
 }
