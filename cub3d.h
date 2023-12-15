@@ -38,9 +38,21 @@ typedef struct s_input
 	char	**tab_map;
 }				t_input;
 
-// Utils
+// Init
 
 void	print_list(t_list *list);
 void	print_tab(char **tab);
+void	add_end(t_list **list, char *line, t_input *input);
+t_list	*ptr_last_node(t_list *list);
+int		len_tab(t_list *list);
+char	*ft_strdup_free(const char *str);
+int		only_path(t_input *input);
+int		only_nbr(t_input *input);
+int		init_print_error(char *str);
+void	init_free_all_and_exit(t_input *input);
+void	free_str_and_null(char *str);
+
+// a supp
+size_t	ft_strlen(const char *s);
 
 #endif

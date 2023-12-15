@@ -1,6 +1,6 @@
 SRC = \
 	input_in_list.c utils/print_var.c gnl/get_next_line_utils.c \
-	gnl/get_next_line.c
+	gnl/get_next_line.c input_in_list_2.c input_in_list_3.c
 OBJ = $(SRC:.c=.o)
 
 CC = gcc

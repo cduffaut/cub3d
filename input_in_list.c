@@ -13,20 +13,7 @@
 # include "utils/utils.h"
 #include "cub3d.h"
 
-int		len_tab(t_list *list)
-{
-	int		len;
-
-	len = 0;
-	while (list->next != NULL)
-	{
-		list = list->next;
-		len++;
-	}
-	return (len);
-}
-
-void	put_map_int_tab(t_input *input)
+static void	put_map_int_tab(t_input *input)
 {
 	int		i;
 	int		len;
@@ -51,42 +38,12 @@ void	put_map_int_tab(t_input *input)
 	input->tab_map[i + 1] = NULL;
 }
 
-t_list	*ptr_last_node(t_list *list)
+static int	create_linked_list(t_input *input, int fd, char	*line)
 {
-	if (!list)
-		return (NULL);
-	while (list->next)
-	{
-		list = list->next;
-	}
-	return (list);
-}
-
-void	add_end(t_list **list, char *line)
-{
-	t_list	*tmp;
-	t_list	*new_node;
-	int		i;
-
-	new_node = malloc(sizeof(t_list));
-	if (!new_node)
-	{
-		printf ("Error list allocation\n");
-		return ;
-	}
-	new_node->str = line;
-	new_node->next = NULL;
-	if (!*list)
-	{
-		*list = new_node;
-		return ;
-	}
-	tmp = ptr_last_node(*list);
-	tmp->next = new_node;
-}
-
-void	create_linked_list(t_input *input, int fd, char	*line)
-{
+	if (only_path(input))
+		return (1);
+	if (only_nbr(input))
+		return (1);
 	while (1)
 	{
 		if (line == NULL)
@@ -94,23 +51,28 @@ void	create_linked_list(t_input *input, int fd, char	*line)
 			free(line);
 			break;
 		}
-		add_end(&input->map, line);
+		add_end(&input->map, line, input);
 		line = get_next_line(fd);
 	}
+	return (0);
 }
 
-void	input_in_list(t_input *input, int fd)
+void	free_str_and_null(char *str)
 {
-	char	*line;
+	if (str)
+	{
+		free(str);
+		str = NULL;
+	} 
+}
 
+static void	input_in_list(t_input *input, int fd, char *line)
+{
 	while (1)
 	{
 		line = get_next_line(fd);
 		if (line[0] == '\n' && line[1] == '\0')
-		{
-			free (line);
-			line = NULL;
-		}
+			free_str_and_null(line);
 		else if (!input->no)
 			input->no = line;
 		else if (!input->so)
@@ -125,35 +87,40 @@ void	input_in_list(t_input *input, int fd)
 			input->c = line;
 		else
 		{
-			create_linked_list(input, fd, line);
+			if (create_linked_list(input, fd, line) == 1)
+				init_free_all_and_exit(input);
 			break ;
 		}
 	}
-	if (line)
-	{
-		free (line);
-		line = NULL;
-	}
+	free_str_and_null(line);
 }
 
-void	init_list(char **argv)
+// NULL case: return free and exit list that return NULL
+t_input	*init_list(char **argv)
 {
-	t_input	input;
+	t_input	*input;
+	char	*line;
 	int		fd;
 
-	input = (t_input){};
+	input = malloc(sizeof(t_input));
 	fd = open(argv[1], O_RDWR);
-	// put an exit error func
 	if (fd < 0)
 	{
-		printf ("error map opening\n");
-		return ;
+		init_print_error("Error map opening\n");
+		return (NULL);
 	}
-	input_in_list(&input, fd);
-	put_map_int_tab(&input);
-	print_list(input.map);
-	print_tab(input.tab_map);
+	input_in_list(input, fd, line);
+	put_map_int_tab(input);
+	print_list(input->map);
+	print_tab(input->tab_map);
+	printf ("NO: %s\n", input->no);
+	printf ("SO: %s\n", input->so);
+	printf ("WE: %s\n", input->we);
+	printf ("EA: %s\n", input->ea);
+	printf ("F: %s\n", input->f);
+	printf ("C: %s\n", input->c);
 	close(fd);
+	return (input);
 }
 
 int	main(int argc, char **argv)
