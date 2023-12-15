@@ -49,8 +49,8 @@ char	*ft_strdup_free(const char *str);
 int		only_path(t_input *input);
 int		only_nbr(t_input *input);
 int		init_print_error(char *str);
-void	init_free_all_and_exit(t_input *input);
-void	free_str_and_null(char *str);
+int		init_free_all_and_exit(t_input *input);
+int		free_str_and_null(char *str);
 
 // a supp
 size_t	ft_strlen(const char *s);

@@ -24,7 +24,38 @@ size_t	ft_strlen(const char *s)
 	return (i);
 }
 
-void	init_free_all_and_exit(t_input *input)
+void	free_tab(char **tab)
+{
+	int		i;
+
+	i = 0;
+	while (tab[i])
+	{
+		free (tab[i]);
+		tab[i] = NULL;
+		i++;
+	}
+	if (tab)
+	{
+		free(tab);
+		tab = NULL;
+	}
+}
+
+static void	clean_list(t_list *list)
+{
+	t_list	*tmp;
+
+	while (list)
+	{
+		tmp = list->next;
+		free (list);
+		list = NULL;
+		list = tmp;
+	}
+}
+
+int	init_free_all_and_exit(t_input *input)
 {
 	if (input->no)
 		free_str_and_null(input->no);
@@ -38,7 +69,14 @@ void	init_free_all_and_exit(t_input *input)
 		free_str_and_null(input->f);
 	if (input->c)
 		free_str_and_null(input->c);
-	exit (1);
+	clean_list(input->map);
+	free_tab(input->tab_map);
+	if (input)
+	{
+		free (input);
+		input = NULL;
+	}
+	return (1);
 }
 
 void	add_end(t_list **list, char *line, t_input *input)

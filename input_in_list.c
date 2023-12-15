@@ -13,7 +13,7 @@
 # include "utils/utils.h"
 #include "cub3d.h"
 
-static void	put_map_int_tab(t_input *input)
+static int	put_map_int_tab(t_input *input)
 {
 	int		i;
 	int		len;
@@ -24,8 +24,8 @@ static void	put_map_int_tab(t_input *input)
 	input->tab_map = malloc(sizeof(char *) * (len + 1));
 	if (!input->tab_map)
 	{
-		// exit error func
-		return ;
+		init_print_error("Error tab map allocation\n");
+		return (init_free_all_and_exit(input));
 	}
 	i = 0;
 	while (tmp->next != NULL)
@@ -36,13 +36,14 @@ static void	put_map_int_tab(t_input *input)
 	}
 	input->tab_map[i] = tmp->str;
 	input->tab_map[i + 1] = NULL;
+	return (0);
 }
 
 static int	create_linked_list(t_input *input, int fd, char	*line)
 {
-	if (only_path(input))
+	if (only_path(input) == 1)
 		return (1);
-	if (only_nbr(input))
+	if (only_nbr(input) == 1)
 		return (1);
 	while (1)
 	{
@@ -57,16 +58,17 @@ static int	create_linked_list(t_input *input, int fd, char	*line)
 	return (0);
 }
 
-void	free_str_and_null(char *str)
+int	free_str_and_null(char *str)
 {
 	if (str)
 	{
 		free(str);
 		str = NULL;
-	} 
+	}
+	return (0);
 }
 
-static void	input_in_list(t_input *input, int fd, char *line)
+static int	input_in_list(t_input *input, int fd, char *line)
 {
 	while (1)
 	{
@@ -88,11 +90,11 @@ static void	input_in_list(t_input *input, int fd, char *line)
 		else
 		{
 			if (create_linked_list(input, fd, line) == 1)
-				init_free_all_and_exit(input);
+				return (init_free_all_and_exit(input));
 			break ;
 		}
 	}
-	free_str_and_null(line);
+	return (free_str_and_null(line));
 }
 
 // NULL case: return free and exit list that return NULL
@@ -109,16 +111,10 @@ t_input	*init_list(char **argv)
 		init_print_error("Error map opening\n");
 		return (NULL);
 	}
-	input_in_list(input, fd, line);
-	put_map_int_tab(input);
-	print_list(input->map);
-	print_tab(input->tab_map);
-	printf ("NO: %s\n", input->no);
-	printf ("SO: %s\n", input->so);
-	printf ("WE: %s\n", input->we);
-	printf ("EA: %s\n", input->ea);
-	printf ("F: %s\n", input->f);
-	printf ("C: %s\n", input->c);
+	if (input_in_list(input, fd, line) == 1)
+		return (NULL);
+	if (put_map_int_tab(input) == 1)
+		return (NULL);
 	close(fd);
 	return (input);
 }
