@@ -6,7 +6,7 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:06:29 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 10:53:14 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/15 11:25:01 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,13 +17,13 @@
 # include <stdlib.h>
 # include <unistd.h>
 
-# include "gnl/get_next_line.h"
 # include "utils/utils.h"
+# include "gnl/get_next_line.h"
 
 typedef struct s_list
 {
-	char	*str;
-	s_list	*next;
+	char			*str;
+	struct s_list	*next;
 }				t_list;
 
 typedef struct s_input
@@ -35,7 +35,12 @@ typedef struct s_input
 	char	*f;
 	char	*c;
 	t_list	*map;
-	char	*tab_map;
+	char	**tab_map;
 }				t_input;
+
+// Utils
+
+void	print_list(t_list *list);
+void	print_tab(char **tab);
 
 #endif

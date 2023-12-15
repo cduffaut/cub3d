@@ -6,14 +6,13 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:54:28 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 10:59:24 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/15 11:24:44 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef UTILS_H
 # define UTILS_H
 
-void	print_list(t_list *list);
-void	print_tab(char **tab);
+# include "../cub3d.h"
 
 #endif
