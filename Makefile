@@ -1,7 +1,7 @@
 SRC = \
 	input_in_list.c utils/print_var.c gnl/get_next_line_utils.c \
 	gnl/get_next_line.c
-OBJ = $(SRC:.cpp=.o)
+OBJ = $(SRC:.c=.o)
 
 CC = gcc
 FLAGS = -Wall -Wextra -Werror
