@@ -6,11 +6,11 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/16 09:28:38 by csil              #+#    #+#             */
-/*   Updated: 2023/12/16 13:42:25 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 13:49:52 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../Includes/cub3d.h"
+#include "cub3d.h"
 
 // Check if the nbr is to big.
 // If it is too big : return 1
@@ -18,7 +18,6 @@
 static int	is_size_nbr_valid(char *str)
 {
 	long long	nbr;
-	int			is_neg;
 	int			i;
 
 	nbr = 0;
@@ -34,7 +33,6 @@ static int	is_size_nbr_valid(char *str)
 		nbr = nbr * 10 + (str[i] - 48);
 		i++;
 	}
-	nbr = nbr * is_neg;
 	if (nbr < 0)
 		return (1);
 	else if (nbr > 255)
@@ -147,8 +145,8 @@ int	init_separe_colours(t_input *input)
     (void) argv;
 
     input = (t_input){};
-    input.f = "23,-346373,+353";
-    input.c = "-1111111,22222,3333333";
+    input.f = "23,346373,+353";
+    input.c = "1111111,22222,3333333";
 
     printf("return value : %d\n", init_separe_colours(&input));
 

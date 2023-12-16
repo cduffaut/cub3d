@@ -6,11 +6,11 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/16 09:28:38 by csil              #+#    #+#             */
-/*   Updated: 2023/12/16 13:42:57 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 13:48:37 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../Includes/cub3d.h"
+#include "cub3d.h"
 
 // return 1: if the number of commas is incorrect
 // return 0: if there is the right number of commas
