@@ -6,12 +6,11 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/16 09:28:38 by csil              #+#    #+#             */
-/*   Updated: 2023/12/16 13:28:00 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 13:42:25 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "utils/utils.h"
-#include "cub3d.h"
+#include "../Includes/cub3d.h"
 
 // Check if the nbr is to big.
 // If it is too big : return 1
@@ -22,13 +21,12 @@ static int	is_size_nbr_valid(char *str)
 	int			is_neg;
 	int			i;
 
-	is_neg = 1;
 	nbr = 0;
 	i = 0;
 	if (str[i] == '-' || str[i] == '+')
 	{
 		if (str[i] == '-')
-			is_neg = -1;
+			return (1);
 		i++;
 	}
 	while (str[i])
@@ -37,10 +35,10 @@ static int	is_size_nbr_valid(char *str)
 		i++;
 	}
 	nbr = nbr * is_neg;
-	if (nbr < -2147483648)
+	if (nbr < 0)
 		return (1);
-	else if (nbr > 2147483647)
-		return (1);	
+	else if (nbr > 255)
+		return (1);
 	return (0);
 }
 
@@ -57,7 +55,7 @@ static int	convert_colours_to_int(char *str, int *colour)
 	}
 	else if (is_size_nbr_valid(str) == 1)
 	{
-		printf ("Error: only valid integers are allowed for colours value\n");
+		printf ("Error: number between 0-255 are allowed for colours value\n");
 		free_str_and_null(str);
 		return (1);
 	}

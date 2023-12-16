@@ -6,12 +6,11 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/16 09:28:38 by csil              #+#    #+#             */
-/*   Updated: 2023/12/16 13:26:15 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 13:42:57 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "utils/utils.h"
-#include "cub3d.h"
+#include "../Includes/cub3d.h"
 
 // return 1: if the number of commas is incorrect
 // return 0: if there is the right number of commas
@@ -63,7 +62,7 @@ int	other_than_digit(char *str)
 	int		i;
 
 	i = 0;
-	if (str[0] == '-' || str[0] == '+')
+	if (str[0] == '+')
 		i = 1;
 	while (str[i])
 	{
