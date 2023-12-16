@@ -6,11 +6,11 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 13:00:20 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 11:07:01 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-# include "utils/utils.h"
+#include "utils/utils.h"
 #include "cub3d.h"
 
 static int	put_map_int_tab(t_input *input)
@@ -104,6 +104,7 @@ t_input	*init_list(char **argv)
 	char	*line;
 	int		fd;
 
+	line = NULL;
 	input = malloc(sizeof(t_input));
 	fd = open(argv[1], O_RDWR);
 	if (fd < 0)
@@ -119,10 +120,10 @@ t_input	*init_list(char **argv)
 	return (input);
 }
 
-int	main(int argc, char **argv)
+/*int	main(int argc, char **argv)
 {
 	(void) argc;
 	(void) argv;
 	init_list(argv);
 	return (0);
-}
+}*/

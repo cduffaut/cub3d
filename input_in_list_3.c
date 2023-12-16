@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   input_in_list.c                                    :+:      :+:    :+:   */
+/*   input_in_list_3.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 13:00:20 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 11:00:02 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-# include "utils/utils.h"
+#include "utils/utils.h"
 #include "cub3d.h"
 
 // a supp
@@ -83,7 +83,6 @@ void	add_end(t_list **list, char *line, t_input *input)
 {
 	t_list	*tmp;
 	t_list	*new_node;
-	int		i;
 
 	new_node = malloc(sizeof(t_list));
 	if (!new_node)

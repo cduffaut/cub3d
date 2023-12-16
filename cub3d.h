@@ -6,7 +6,7 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:06:29 by csil              #+#    #+#             */
-/*   Updated: 2023/12/15 11:25:01 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/16 13:06:35 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 
 # include "utils/utils.h"
 # include "gnl/get_next_line.h"
+# include "libft/libft.h"
 
 typedef struct s_list
 {
@@ -36,6 +37,12 @@ typedef struct s_input
 	char	*c;
 	t_list	*map;
 	char	**tab_map;
+	int		f_r;
+	int		f_g;
+	int		f_b;
+	int		c_r;
+	int		c_g;
+	int		c_b;
 }				t_input;
 
 // Init
@@ -54,5 +61,11 @@ int		free_str_and_null(char *str);
 
 // a supp
 size_t	ft_strlen(const char *s);
+
+// new !
+char	*ft_strndup(const char *str, int isize);
+int		not_enough_commas(char *str);
+int		other_than_digit(char *str);
+int		init_separe_colours(t_input *input);
 
 #endif
