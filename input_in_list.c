@@ -6,7 +6,7 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/16 11:07:01 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/17 12:37:16 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,7 +50,7 @@ static int	create_linked_list(t_input *input, int fd, char	*line)
 		if (line == NULL)
 		{
 			free(line);
-			break;
+			break ;
 		}
 		add_end(&input->map, line, input);
 		line = get_next_line(fd);
