@@ -6,7 +6,7 @@
 /*   By: csil <csil@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 10:02:41 by csil              #+#    #+#             */
-/*   Updated: 2023/12/16 10:18:28 by csil             ###   ########.fr       */
+/*   Updated: 2023/12/17 12:34:08 by csil             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -78,7 +78,7 @@ int	only_path(t_input *input)
 	return (0);
 }
 
-int only_nbr(t_input *input)
+int	only_nbr(t_input *input)
 {
 	if (input->f[0] == 'F' && input->f[1] == ' ')
 		input->f = ft_strdup_free(input->f + 2);
