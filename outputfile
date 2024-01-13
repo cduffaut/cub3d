@@ -1,0 +1,2685 @@
+make[1]: `libft.a' is up to date.
+make[1]: Nothing to be done for `all'.
+./cub3d map/map.cub
+array : 11111111111 |
+array : 10010000001 |
+array : 10010000001 |
+array : 10010000001 |
+array : 10000000001 |
+array : 1N000000001 |
+array : 11111111111 |
+player pos : 1.000000, 5.000000
+iangl : 38.000000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.030000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.060000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.090000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.120000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.150000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.180000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.210000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.240000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.270000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.300000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.330000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.360000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.390000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.420000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.450000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.480000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.510000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.540000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.570000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.600000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.630000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.660000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.690000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.720000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.750000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.780000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.810000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.840000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.870000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.900000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.930000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.960000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 38.990000
+wall_size : 554.096776, ilen : 1.624265
+
+iwall : 554
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.020000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.050000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.080000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.110000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.140000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.170000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.200000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.230000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.260000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.290000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.320000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.350000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.380000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.410000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.440000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.470000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.500000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.530000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.560000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.590000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.620000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.650000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.680000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.710000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.740000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.770000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.800000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.830000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.860000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.890000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.920000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.950000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 39.980000
+wall_size : 566.388612, ilen : 1.589015
+
+iwall : 566
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.010000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.040000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.070000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.100000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.130000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.160000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.190000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.220000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.250000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.280000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.310000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.340000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.370000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.400000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.430000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.460000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.490000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.520000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.550000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.580000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.610000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.640000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.670000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.700000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.730000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.760000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.790000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.820000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.850000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.880000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.910000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.940000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 40.970000
+wall_size : 578.510272, ilen : 1.555720
+
+iwall : 578
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.000000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.030000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.060000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.090000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.120000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.150000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.180000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.210000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.240000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.270000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.300000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.330000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.360000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.390000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.420000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.450000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.480000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.510000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.540000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.570000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.600000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.630000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.660000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.690000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.720000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.750000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.780000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.810000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.840000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.870000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.900000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.930000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.960000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 41.990000
+wall_size : 590.454322, ilen : 1.524250
+
+iwall : 590
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.020000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.050000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.080000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.110000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.140000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.170000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.200000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.230000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.260000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.290000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.320000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.350000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.380000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.410000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.440000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.470000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.500000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.530000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.560000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.590000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.620000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.650000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.680000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.710000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.740000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.770000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.800000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.830000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.860000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.890000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.920000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.950000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 42.980000
+wall_size : 602.218170, ilen : 1.494475
+
+iwall : 602
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.010000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.040000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.070000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.100000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.130000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.160000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.190000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.220000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.250000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.280000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.310000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.340000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.370000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.400000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.430000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.460000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.490000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.520000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.550000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.580000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.610000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.640000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.670000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.700000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.730000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.760000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.790000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.820000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.850000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.880000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.910000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.940000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 43.970000
+wall_size : 613.800276, ilen : 1.466275
+
+iwall : 613
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.000000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.030000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.060000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.090000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.120000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.150000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.180000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.210000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.240000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.270000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.300000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.330000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.360000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.390000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.420000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.450000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.480000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.510000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.540000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.570000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.600000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.630000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.660000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.690000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.720000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.750000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.780000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.810000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.840000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.870000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.900000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.930000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.960000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 44.990000
+wall_size : 625.193202, ilen : 1.439555
+
+iwall : 625
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.020000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.050000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.080000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.110000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.140000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.170000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.200000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.230000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.260000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.290000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.320000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.350000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.380000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.410000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.440000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.470000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.500000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.530000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.560000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.590000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.620000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.650000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.680000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.710000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.740000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.770000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.800000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.830000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.860000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.890000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.920000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.950000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 45.980000
+wall_size : 636.397706, ilen : 1.414210
+
+iwall : 636
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.010000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.040000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.070000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.100000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.130000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.160000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.190000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.220000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.250000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.280000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.310000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.340000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.370000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.400000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.430000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.460000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.490000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.520000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.550000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.580000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.610000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.640000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.670000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.700000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.730000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.760000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.790000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.820000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.850000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.880000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.910000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.940000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 46.970000
+wall_size : 647.407493, ilen : 1.390160
+
+iwall : 647
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.000000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.030000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.060000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.090000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.120000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.150000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.180000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.210000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.240000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.270000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.300000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.330000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.360000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.390000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.420000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.450000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.480000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.510000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.540000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.570000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.600000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.630000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.660000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.690000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.720000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.750000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.780000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.810000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.840000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.870000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.900000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.930000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.960000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 47.990000
+wall_size : 658.219516, ilen : 1.367325
+
+iwall : 658
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.020000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.050000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.080000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.110000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.140000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.170000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.200000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.230000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.260000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.290000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.320000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.350000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.380000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.410000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.440000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.470000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.500000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.530000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.560000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.590000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.620000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.650000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.680000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.710000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.740000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.770000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.800000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.830000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.860000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.890000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.920000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.950000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 48.980000
+wall_size : 668.831700, ilen : 1.345630
+
+iwall : 668
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.010000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.040000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.070000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.100000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.130000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.160000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.190000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.220000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.250000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.280000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.310000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.340000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.370000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.400000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.430000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.460000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.490000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.520000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.550000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.580000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.610000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.640000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.670000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.700000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.730000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.760000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.790000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.820000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.850000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.880000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.910000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.940000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 49.970000
+wall_size : 679.240157, ilen : 1.325010
+
+iwall : 679
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.000000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.030000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.060000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.090000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.120000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.150000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.180000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.210000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.240000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.270000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.300000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.330000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.360000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.390000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.420000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.450000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.480000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.510000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.540000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.570000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.600000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.630000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.660000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.690000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.720000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.750000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.780000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.810000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.840000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.870000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.900000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.930000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.960000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 50.990000
+wall_size : 689.441208, ilen : 1.305405
+
+iwall : 689
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.020000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.050000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.080000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.110000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.140000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.170000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.200000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.230000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.260000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.290000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.320000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.350000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.380000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.410000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.440000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.470000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.500000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.530000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.560000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.590000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.620000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.650000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.680000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.710000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.740000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.770000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.800000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.830000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.860000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.890000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.920000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.950000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 51.980000
+wall_size : 699.433847, ilen : 1.286755
+
+iwall : 699
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.010000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.040000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.070000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.100000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.130000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.160000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.190000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.220000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.250000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.280000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.310000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.340000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.370000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.400000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.430000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.460000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.490000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.520000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.550000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.580000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.610000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.640000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.670000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.700000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.730000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.760000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.790000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.820000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.850000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.880000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.910000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.940000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 52.970000
+wall_size : 709.211475, ilen : 1.269015
+
+iwall : 709
+[1;31msrc/raycasting.c:127[0;37m
+iangl : 53.000000
+wall_size : 718.772337, ilen : 1.252135
+
+iwall : 718
+[1;31msrc/raycasting.c:127[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+[1;31msrc/put_map.c:46[0;37m
+[1;31msrc/put_map.c:54[0;37m
+Exit
